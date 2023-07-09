@@ -1,0 +1,1 @@
+This app allows user to browse throught different recipes which are categorised based on their country of origin and by the given attributes. Detail page of each recipe contains tons of relevant information. Hoping to continue with this project later with better understanding of UI/UX.
